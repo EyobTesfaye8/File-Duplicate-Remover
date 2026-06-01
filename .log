@@ -1,0 +1,16 @@
+[INFO] - [26-06-01 21:48:48] - Started new session..
+[INFO] - [26-06-01 21:48:48] - Scanned ./Storage/.
+[INFO] - [26-06-01 21:48:48] - Hashed: ./Storage/img1.png -> 48dee1e07612cd4b78a9563db12a25f449a0481a.
+[INFO] - [26-06-01 21:48:48] - Hashed: ./Storage/Screenshot From 2026-05-17 18-26-40.png -> df49696aeda6cf30fcf857661b129fc3d6ef5a55.
+[INFO] - [26-06-01 21:48:48] - Hashed: ./Storage/Screenshot From 2026-05-17 18-26-50.png -> 694348d2198e36a63866290291110809ba3b8666.
+[INFO] - [26-06-01 21:48:48] - Hashed: ./Storage/Screenshot From 2026-05-17 18-27-04.png -> f9f0f673c4e4cc2ffb41f63cc75372c09266817e.
+[INFO] - [26-06-01 21:48:48] - Ended this session.
+[INFO] - [26-06-01 21:49:26] - Started new session..
+[INFO] - [26-06-01 21:49:26] - Scanned ./Storage/.
+[INFO] - [26-06-01 21:49:26] - Hashed: ./Storage/img1.png -> 48dee1e07612cd4b78a9563db12a25f449a0481a.
+[INFO] - [26-06-01 21:49:26] - Hashed: ./Storage/subfolder/Screenshot From 2026-05-17 18-26-40.png -> df49696aeda6cf30fcf857661b129fc3d6ef5a55.
+[INFO] - [26-06-01 21:49:26] - Hashed: ./Storage/Screenshot From 2026-05-17 18-26-40.png -> df49696aeda6cf30fcf857661b129fc3d6ef5a55.
+[INFO] - [26-06-01 21:49:26] - Hashed: ./Storage/Screenshot From 2026-05-17 18-26-50.png -> 694348d2198e36a63866290291110809ba3b8666.
+[INFO] - [26-06-01 21:49:26] - Hashed: ./Storage/Screenshot From 2026-05-17 18-27-04.png -> f9f0f673c4e4cc2ffb41f63cc75372c09266817e.
+[INFO] - [26-06-01 21:49:26] - Deleted - ./Storage/Screenshot From 2026-05-17 18-26-40.png.
+[INFO] - [26-06-01 21:49:26] - Ended this session.
